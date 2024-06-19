@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Brixy's GitHub stats](https://github-readme-stats.vercel.app/api?username=br1xxy)](https://github.com/br1xxy/github-readme-stats)
+
 <!--
 **Br1xxy/Br1xxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
