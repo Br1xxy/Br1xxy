@@ -17,7 +17,7 @@
 
 <div>
 <img alt="my stats" width=500 align="center" src="https://github-readme-stats-br1xxys-projects.vercel.app//api?username=br1xxy&theme=github_dark&show_icons=true" />
-<img alt="most used langs" width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=br1xxy&layout=compact" />
+<img alt="most used langs" width=500 align="center" src="https://github-readme-stats-br1xxys-projects.vercel.app/api/top-langs/?username=br1xxy&layout=compact" />
 </div>
 <!--
 **Br1xxy/Br1xxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
