@@ -19,6 +19,5 @@
 <div>
 <img alt="my stats" width=500 align="center" src="https://github-readme-stats-br1xxys-projects.vercel.app//api?username=br1xxy&theme=github_dark&show_icons=true" />
 <img alt="most used langs" width=500 align="center" src="https://github-readme-stats-br1xxys-projects.vercel.app/api/top-langs/?username=br1xxy&layout=compact" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Br1xxy&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 <!--
